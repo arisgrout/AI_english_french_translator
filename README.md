@@ -11,7 +11,9 @@ Build a text-based NLP model, for translating english to french.
 ## TODO
 5. Test against Transformer models (BERT?)
 6. Summarize conclusions in this readme / create presentation of results
-* Current best performing model combines embedding and bidirectional RNNs.
+
+## Results
+Best performing model combines embedding and bidirectional RNNs.
 
 ## Data
 Text data from publically available corpus: https://www.statmt.org/europarl/
