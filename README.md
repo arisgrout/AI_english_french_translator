@@ -14,7 +14,7 @@ Build a text-based NLP model, for translating english to french.
 * Current best performing model combines embedding and bidirectional RNNs.
 
 ## Data
-Textual data from publically available corpus: https://www.statmt.org/europarl/
+Text data from publically available corpus: https://www.statmt.org/europarl/
 * [French to English data](https://www.statmt.org/europarl/v7/fr-en.tgz)
 
 _Based on tutorial: https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd_
