@@ -1,3 +1,12 @@
+# Additions
+europarl-v7.fr-en.en
+europarl-v7.fr-en.fr
+house-debates_training/
+house-debates_testing/
+wmt2014*
+*.lnk
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
