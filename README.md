@@ -17,4 +17,5 @@ Build a text-based NLP model, for translating english to french.
 Text data from publically available corpus: https://www.statmt.org/europarl/
 * [French to English data](https://www.statmt.org/europarl/v7/fr-en.tgz)
 
+### References
 _Based on tutorial: https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd_
