@@ -12,12 +12,12 @@ Build a text-based NLP model, for translating english to french.
 5. Test against Transformer models (BERT?)
 6. Summarize conclusions in this readme / create presentation of results
 
-## Results
-Best performing model combines embedding and bidirectional RNNs.
-
 ## Data
 Text data from publically available corpus: https://www.statmt.org/europarl/
 * [French to English data](https://www.statmt.org/europarl/v7/fr-en.tgz)
+
+## Results
+Best performing model combines embedding and bidirectional RNNs.
 
 ### References
 _Based on tutorial: https://towardsdatascience.com/neural-machine-translation-with-python-c2f0a34f7dd_
